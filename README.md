@@ -29,12 +29,18 @@
 
 ## Скріншоти застосунку
 
-| Головна | Фотогалерея | Профіль |
-| :---: | :---: | :---: |
-| [<img width="591" height="1280" alt="photo_1_2026-04-19_23-00-49" src="https://github.com/user-attachments/assets/58a5f5c6-599d-47ee-9e4b-0f4dab6bc2d8" />
-] | [<img width="591" height="1280" alt="photo_3_2026-04-19_23-00-49" src="https://github.com/user-attachments/assets/f1f6fc2a-461e-4145-840c-f3a4ad66bf70" />
-] | [<img width="591" height="1280" alt="photo_2_2026-04-19_23-00-49" src="https://github.com/user-attachments/assets/4a0d82e5-bacb-4657-818d-54e96f7e4b96" />
-] |
+### Головна
+<img width="300" alt="Головна" src="https://github.com/user-attachments/assets/58a5f5c6-599d-47ee-9e4b-0f4dab6bc2d8" />
+
+---
+
+### Фотогалерея
+<img width="300" alt="Фотогалерея" src="https://github.com/user-attachments/assets/f1f6fc2a-461e-4145-840c-f3a4ad66bf70" />
+
+---
+
+### Профіль
+<img width="300" alt="Профіль" src="https://github.com/user-attachments/assets/4a0d82e5-bacb-4657-818d-54e96f7e4b96" />
 
 ## Основні способи запуску мобільного додатка
 
