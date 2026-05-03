@@ -113,8 +113,11 @@ App (Drawer Navigation)
 
 ##  Скріншоти Роботи Додатку
 
+<img width="591" height="1280" alt="1" src="https://github.com/user-attachments/assets/fc4a1cec-e9fd-4b19-b27f-2d9617b349fd" />
 
+<img width="591" height="1280" alt="2" src="https://github.com/user-attachments/assets/2252d7b2-25d0-44fd-91c5-fc9fdf48c3ad" />
 
+<img width="591" height="1280" alt="3" src="https://github.com/user-attachments/assets/bb2bf652-19fd-4154-89e3-7cc2a5300364" />
 
 ##  Загальні Висновки
 
